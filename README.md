@@ -12,10 +12,10 @@ graphic research for fab city logo
 
 
 
-from : https://gist.github.com/akras14/3d242d80af8388ebca60
-# Git Cheat Sheet
 
-Visit [my blog](http://www.alexkras.com/) or [connect with me on Twitter](https://twitter.com/akras14)
+# Git Cheat Sheet
+from : https://gist.github.com/akras14/3d242d80af8388ebca60
+(http://www.alexkras.com/) 
 
 ## Commands
 ### Getting Started
