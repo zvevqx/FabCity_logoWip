@@ -27,29 +27,38 @@ ___
 * on click sur FORK ![alt text](https://github.com/zvevqx/FabCity_logoWip/blob/master/img_readme/fork.png?raw=true "fork btn")en haut a droite pour cree une copie personnel du repo 
 
 ### 2. avant tout recuperer le repo en local  (cloner les fichiers sur son ordinateur)
-1. via le terminal naviger jusqu'a la destination souhaite 
+1. via le terminal naviger jusqu'a la destination souhaite
+ 
 `$ cd ~/dossier/de/desitnation`
 2. recuperer les fichier depuis git avec `git clone`
+
 `$git clone ADRESSE_DU_REPO_GIT`
+
 cela va cree un dossier et telecharger les fichiers 
 
 ### 3. on travail sur les fichiers en local 
 ### 4. on *push* les changements sur le serveur git 
 1. on verifie le statut des fichiers 
+
     `$cd /folder/du/repos/local` 
+
     `$git status`
+
 2. on ajoute les fichiers modifie ou nouveau 
     `$ git add le_nom_du_fichier.ext`
-    >tips:
-    pour tout ajouter d'un coup `git add * `
-    pour ajouter tout les fichiers d'une meme extension `git add *.extention` 
-3. on *commit* les changements (on cree une version avec les nouveaux changements ) 
+    > tips: pour tout ajouter d'un coup `git add * ` pour ajouter tout les fichiers d'une meme extension `git add *.extention` 
+3. on *commit* les changements (on cree une version avec les nouveaux changements )
+ 
     `git commit -m "un message descriptif des changements"`
+
 4. enfin on met a jour les fichiers sur **github**
+
     `git push origin master`
-    >tips:
-    `origin` correspond au server github (c'est une convention sur github)
-    `master` a la branche a mettre a jour
+
+    > tips:
+    > `origin` correspond au server github (c'est une convention sur github)
+    > `master` a la branche a mettre a jour
+
 5. profit...
 
 
