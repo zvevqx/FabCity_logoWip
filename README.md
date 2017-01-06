@@ -25,6 +25,7 @@ ___
 
 ### 1. on *Fork* le repo
 * on click sur FORK ![alt text](https://github.com/zvevqx/FabCity_logoWip/blob/master/img_readme/fork.png?raw=true "fork btn")en haut a droite pour cree une copie personnel du repo 
+
 ### 2. avant tout recuperer le repo en local  (cloner les fichiers sur son ordinateur)
 1. via le terminal naviger jusqu'a la destination souhaite 
 `$ cd ~/dossier/de/desitnation`
