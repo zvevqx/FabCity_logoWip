@@ -10,9 +10,9 @@ graphic research for fab city logo
 
 
 # demarer avec git 
-intaller ` git ` 
+installer ` git ` 
 ##### linux :
-`sudo apt -get update`
+`sudo apt-get update`
 `sudo apt-get install git`
 ##### windows :
 https://git-scm.com/download/win
@@ -24,7 +24,7 @@ on cree un compte sur `github`
 ___
 
 ### 1. on *Fork* le repo
-* on click sur FORK en haut a droite pour cree une copie personnel du repo 
+* on click sur FORK ![alt text](https://github.com/zvevqx/FabCity_logoWip/blob/master/img_readme/fork.png?raw=true "fork btn")en haut a droite pour cree une copie personnel du repo 
 ### 2. avant tout recuperer le repo en local  (cloner les fichiers sur son ordinateur)
 1. via le terminal naviger jusqu'a la destination souhaite 
 `$ cd ~/dossier/de/desitnation`
@@ -54,7 +54,7 @@ cela va cree un dossier et telecharger les fichiers
 
 ### modifier le repo original 
 pour soumettre les modifications sur le repo original il faut faire un *pull request* 
-pour cela on clique depuis votre repo sur **new pull request** 
+pour cela on clique depuis votre repo sur **new pull request** ![alt text](https://github.com/zvevqx/FabCity_logoWip/blob/master/img_readme/pullrequest.png?raw=true "pullrequest btn") 
 
 ## DONE 
 **bravo** vous utilisez `git` et `github`
