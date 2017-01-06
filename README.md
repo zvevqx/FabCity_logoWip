@@ -29,10 +29,11 @@ ___
 ### 2. avant tout recuperer le repo en local  (cloner les fichiers sur son ordinateur)
 1. via le terminal naviger jusqu'a la destination souhaite
  
-`$ cd ~/dossier/de/desitnation`
+	`$ cd ~/dossier/de/desitnation`
+
 2. recuperer les fichier depuis git avec `git clone`
 
-`$git clone ADRESSE_DU_REPO_GIT`
+	`$git clone ADRESSE_DU_REPO_GIT`
 
 cela va cree un dossier et telecharger les fichiers 
 
@@ -40,20 +41,20 @@ cela va cree un dossier et telecharger les fichiers
 ### 4. on *push* les changements sur le serveur git 
 1. on verifie le statut des fichiers 
 
-    `$cd /folder/du/repos/local` 
+	`$cd /folder/du/repos/local` 
 
-    `$git status`
+	`$git status`
 
 2. on ajoute les fichiers modifie ou nouveau 
-    `$ git add le_nom_du_fichier.ext`
+	`$ git add le_nom_du_fichier.ext`
     > tips: pour tout ajouter d'un coup `git add * ` pour ajouter tout les fichiers d'une meme extension `git add *.extention` 
 3. on *commit* les changements (on cree une version avec les nouveaux changements )
  
-    `git commit -m "un message descriptif des changements"`
+	`git commit -m "un message descriptif des changements"`
 
 4. enfin on met a jour les fichiers sur **github**
 
-    `git push origin master`
+	`git push origin master`
 
     > tips:
     > `origin` correspond au server github (c'est une convention sur github)
