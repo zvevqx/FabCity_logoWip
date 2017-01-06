@@ -3,7 +3,7 @@ graphic research for fab city logo
 
 
 #getting started :
-- githud 101  : https://guides.github.com/activities/hello-world/ 
+- github 101  : https://guides.github.com/activities/hello-world/ 
                 http://rogerdudler.github.io/git-guide/
                 
 - edit file   : inkscape (win / osx / linux) https://inkscape.org/en/
